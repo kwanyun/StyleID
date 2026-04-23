@@ -18,8 +18,8 @@ It can be used for **identity similarity measurement, retrieval, evaluation, and
 
 - [x] (23.April) Quick start recognition model release 
 - [x] (24.April) ArXiv released
-- [ ] (May) Dataset release
-- [ ] (May) Data generation code release
+- [ ] Dataset release
+- [ ] Data generation code release
 
 ---
 
