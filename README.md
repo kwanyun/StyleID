@@ -70,7 +70,7 @@ StyleID embeddings can be used for:
 ## Citation
 
 If you find this work useful, please cite the paper:
-
+<!-- 
 ```bibtex
 @article{yun2026styleid,
   title={StyleID: Stylization-Agnostic Identity Encoding for Portraits},
@@ -79,5 +79,5 @@ If you find this work useful, please cite the paper:
   year={2026}
 }
 ```
-
+-->
 ---
