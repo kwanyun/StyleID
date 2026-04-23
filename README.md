@@ -1,4 +1,5 @@
-# StyleID : Stylization-Agnostic Identity Encoder
+# StyleID : A Perception-Aware Dataset and Metric for Stylization-Agnostic Facial Identity Recognition
+
 
 **SIGGRAPH 2026 / ACM TOG Journal Track**
 
