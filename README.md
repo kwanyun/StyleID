@@ -3,7 +3,6 @@
 **SIGGRAPH 2026 / ACM TOG Journal Track**
 
 [![HuggingFace](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Models-yellow)](https://huggingface.co/kwanY/styleid)
-[![License](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 [![Project Page](https://img.shields.io/badge/Project-Page-blue)](https://kwanyun.github.io/StyleID_page/)
 
 StyleID is a CLIP-based image encoder designed to produce **identity embeddings that remain robust under stylization**.  
