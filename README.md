@@ -45,8 +45,11 @@ with torch.no_grad():
     emb = emb / emb.norm(dim=-1, keepdim=True)  # optional but recommended
 ```
 
----
+#### Notes
+- Not suitable for images with **multiple faces**
+- Rough center crop near the face is recommended for better performance
 
+--- 
 ## Intended Uses
 
 StyleID embeddings can be used for:
@@ -59,18 +62,11 @@ StyleID embeddings can be used for:
 
 ---
 
-## Limitations
-
-- Not suitable for images with **multiple faces**
----
-
 ## License and Usage Notice
 
-- StyleID is released for **non-commercial research use**.
+- StyleID is released for non-commercial research use.
+- Do not use FFHQ-derived data for biometric human recognition
 
-- Do **not** use FFHQ-derived data for **biometric human recognition**
-
----
 
 ## Citation
 
