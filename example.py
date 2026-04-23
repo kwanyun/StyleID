@@ -7,7 +7,7 @@ device = "cuda" if torch.cuda.is_available() else "cpu"
 model = CLIPModel.from_pretrained("kwanY/styleid").to(device)
 processor = CLIPProcessor.from_pretrained("kwanY/styleid")
 
-img = Image.open("ex.png").convert("RGB")
+img = Image.open("data/ex.png").convert("RGB")
 inputs = processor(images=img, return_tensors="pt").to(device)
 
 with torch.no_grad():
