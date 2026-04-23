@@ -16,10 +16,10 @@ It can be used for **identity similarity measurement, retrieval, evaluation, and
 
 ## Project Status
 
-- [x] Quick start recognition model release
-- [x] ArXiv released
-- [ ] Dataset release
-- [ ] Data generation code release
+- [x] (23.April) Quick start recognition model release 
+- [x] (24.April) ArXiv released
+- [ ] (May) Dataset release
+- [ ] (May) Data generation code release
 
 ---
 
