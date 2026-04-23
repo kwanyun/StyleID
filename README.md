@@ -23,8 +23,6 @@ It can be used for **identity similarity measurement, retrieval, evaluation, and
 ---
 
 ## Quick Start
-#### This is all you need for inference
-
 ```python
 import torch
 from transformers import CLIPModel, CLIPProcessor
