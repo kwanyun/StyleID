@@ -72,14 +72,14 @@ StyleID embeddings can be used for:
 ## Citation
 
 If you find this work useful, please cite the paper:
-<!-- 
-```bibtex
+
+```
 @article{yun2026styleid,
-  title={StyleID: Stylization-Agnostic Identity Encoding for Portraits},
-  author={Yun, Kwan and others},
-  journal={ACM Transactions on Graphics (Proceedings of SIGGRAPH 2026)},
+  title={StyleID: A Perception-Aware Dataset and Metric for Stylization-Agnostic Facial Identity Recognition},
+  author={Yun, Kwan and Lee, Changmin and Jeong, Ayeong and Kim, Youngseo and Lee, Seungmi and Noh, Junyong},
+  journal={arXiv preprint arXiv:2604.21689},
   year={2026}
 }
 ```
--->
+
 ---
