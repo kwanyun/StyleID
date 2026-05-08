@@ -4,8 +4,9 @@
 **SIGGRAPH 2026 / ACM TOG Journal Track**
 
 [![arXiv](https://img.shields.io/badge/arXiv-2604.21689-b31b1b.svg)](https://arxiv.org/abs/2604.21689)
-[![HuggingFace](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Models-yellow)](https://huggingface.co/kwanY/styleid)
 [![Project Page](https://img.shields.io/badge/Project-Page-blue)](https://kwanyun.github.io/StyleID_page/)
+[![HuggingFace](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Models-yellow)](https://huggingface.co/kwanY/styleid)
+[![HuggingFace](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Dataset-yellow)](https://huggingface.co/datasets/kwanY/styleid-s)
 
 
 StyleID is a CLIP-based image encoder designed to produce **identity embeddings that remain robust under stylization**.  
@@ -18,11 +19,11 @@ It can be used for **identity similarity measurement, retrieval, evaluation, and
 
 ## Project Status
 
-- [x] (23.April) Quick start recognition model release 
-- [x] (24.April) ArXiv released
-- [ ] Dataset release
+- [x] Quick start recognition model release 
+- [x] ArXiv released
+- [x] Dataset release
 - [ ] Data generation code release
-
+- [ ] Train code release
 ---
 
 ## Quick Start
