@@ -28,6 +28,7 @@ It can be used for **identity similarity measurement, retrieval, evaluation, and
 
 ## Quick Start
 ```python
+!pip install transformers==4.52.0
 import torch
 from transformers import CLIPModel, CLIPProcessor
 from PIL import Image
