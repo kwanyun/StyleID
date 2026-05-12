@@ -19,8 +19,8 @@ It can be used for **identity similarity measurement, retrieval, evaluation, and
 
 ## Project Status
 
-- [x] Quick start recognition model release 
 - [x] ArXiv released
+- [x] Recognition model release 
 - [x] Dataset release
 - [ ] Data generation code release
 - [ ] Train code release
